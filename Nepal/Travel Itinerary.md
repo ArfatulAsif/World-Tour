@@ -112,3 +112,5 @@
 ## Cost:
 
 **If you don’t spend unnecessarily, traveling in Nepal should cost around `7000 NPR` per day for two people. This means that for this tour, the total cost would be around `42000 NPR` for two people or `21000 NPR` per person.**
+
+**If you choose to do activities, bring extra money for them separately.**
