@@ -106,3 +106,9 @@
 ### Morning & Afternoon Activities
 - 🛍 **Shopping & Exploring Thamel** – Buy souvenirs, handicrafts, and Nepali tea.
 - 🚊 **Airport Transfer:** Leave for the airport at least **3 hours before the flight**.
+
+
+
+## Cost:
+
+**If you don’t spend unnecessarily, traveling in Nepal should cost around `7000 NPR` per day for two people. This means that for this tour, the total cost would be around `42000 NPR` for two people or `21000 NPR` per person.**
