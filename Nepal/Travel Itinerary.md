@@ -17,14 +17,14 @@
 **Use Pathao/InDrive to move around between places. We used InDrive, as it was a bit cheaper than Pathao. Also, We Walked quite a lot, which is why we saved up as much as possible**
 
 ### To-Do
-- 📚 Book a night bus ticket from Kathmandu to Pokhara for **Day 3**.
+- 📚 Book a night bus ticket from Kathmandu to Pokhara for **Day 3**. You can do it online or on the spot. If you choose to book on the spot, you don’t need to do it on **Day 1**; you can book it on the day of departure from Sorhakhutte or Balaju Bus Stand. Just make sure buses are available—check online for seat availability and ask your hotel if it is a very busy season.
 
 ---
 
 ## Kathmandu (Day 2) 
 
 ### Morning Activities
-- 🚊 **Local Bus from “Ratnapark” to "Bhaktapur".** Cost around 40 NPR. And Ratnapark is near thamel, you can walk from your hotel (1.5 km).
+- 🚊 **Local Bus from “Ratnapark” to "Bhaktapur".** Costs around 40 NPR. And Ratnapark is near thamel, you can walk from your hotel (1.5 km).
 
 - 🏠 **Bhaktapur Exploration:**
   - 🎨 **Pottery Square** – Watch artisans create traditional pottery.
