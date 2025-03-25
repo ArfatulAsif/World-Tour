@@ -87,7 +87,9 @@
 ## Pokhara (Day 5)
 
 ### Morning & Noon Activities (Opposite Side of the Lake)
-- 🛶 **Boat ride across Phewa Lake to reach sites:**
+- 🌄 **Sarangkot Sunrise View** – Stunning sunset over the Annapurna range. This is a **Must Do**.
+- 🛶 **Boat ride across Phewa Lake.**
+- **Visit Places:**
   1. ✨ **World Peace Pagoda** – A beautiful Buddhist stupa with amazing views.
   2. ✨ **Gupteshwor Mahadev Cave** – Sacred cave with an underground waterfall.
   3. ✨ **Devi’s Falls** – Famous waterfall near the cave.
