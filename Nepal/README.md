@@ -14,7 +14,7 @@ Before traveling to Nepal, we planned our trip carefully. As Bangladeshi citizen
 6. Boarding pass (from the airport after check-in)
 7. Additional documents as required
 
-We boarded our flight on Biman Bangladesh Airlines. We made sure to sit on the **right side** of the plane so we could see the **Himalayan mountain range** while flying to Nepal.
+We boarded our flight on Biman Bangladesh Airlines. It was around **10:00 am**. We made sure to sit on the **right side** of the plane so we could see the **Himalayan mountain range** while flying to Nepal.
 
 After arriving at **Tribhuvan International Airport**, immigration was smooth, and we purchased a local SIM card. Once we exited the airport, our journey officially began.
 
@@ -265,7 +265,7 @@ We reached **Kathmandu** very early in the morning and walked to **Thamel**. We 
 
 We took it and slept.
 
-After waking up, we did some shopping and had a final walk around. Then we used **Indrive** to book a taxi to the airport.
+After waking up, we did some shopping and had a final walk around. Then we used **Indrive** to book a taxi to the airport. Our flight was at the evening.
 
 (Thus ended our trip)
 
