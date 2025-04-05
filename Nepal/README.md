@@ -267,7 +267,7 @@ After reaching the spot, it was amazing. One after another, paragliding flights 
 
 **I should mention that paragliding in Pokhara is one of the best in the world.**
 
-<img src="Images/paragliding_pokhara1.jpg" width="400" height="567"> ____ <img src="Images/paragliding_pokhara2.jpg" width="400" height="567">
+<img src="Images/paragliding_pokhara1.jpeg" width="400" height="567"> ____ <img src="Images/paragliding_pokhara2.jpeg" width="400" height="567">
 
 
 After paragliding, I reached the lakeside hotel, took a shower, waited for a while, and then left.
