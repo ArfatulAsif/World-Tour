@@ -98,7 +98,7 @@ The only way to explore Bhaktapur is by walking.
 
 After getting off the bus, we walked from the main road to **Pottery Square**.
 
-<img src="Images/map_main_road_to_Pottery_Square.png" width="500" height="300">
+<img src="Images/map_main_road_to_Pottery_Square .png" width="500" height="300">
 
 ### Pottery Square
 
