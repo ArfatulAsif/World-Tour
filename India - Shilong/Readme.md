@@ -1,4 +1,3 @@
-
 # India - Shillong Itinerary 5 Days 4 Nights
 
 Shillong, the capital of Meghalaya, is often referred to as the "Scotland of the East." This picturesque city is known for its cool climate, stunning landscapes, and vibrant culture. If you're planning a trip to Shillong, here's a detailed itinerary that will help you make the most of your 5 days and 4 nights in this beautiful hill station.
