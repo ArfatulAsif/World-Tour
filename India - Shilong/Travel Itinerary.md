@@ -17,7 +17,10 @@
 ## Day 2
 
 ### Early Morning Activities  
-- 🕖 **Wake Up Before 7 AM:** Head to Polo Road to Meghalaya Tourism Development Corporation Ltd.  
+- 🕖 **Wake Up Before 7 AM:** Head to Polo Road to Meghalaya Tourism Development Corporation Ltd. Should use the **google map**. Local driver wont give you the address. Even local people dont know much about the Meghalaya Tourism Bus spot.
+
+[Google map](https://www.google.com/maps/place/Meghalaya+Tourism+Development+Corporation+Ltd/@25.5804872,91.8882087,17z/data=!4m14!1m7!3m6!1s0x37507ebf70f2b455:0x38a9571184e4faf!2sMeghalaya+Tourism+Development+Corporation+Ltd!8m2!3d25.5804872!4d91.8882087!16s%2Fg%2F11v9m_n7bw!3m5!1s0x37507ebf70f2b455:0x38a9571184e4faf!8m2!3d25.5804872!4d91.8882087!16s%2Fg%2F11v9m_n7bw?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D)
+
 - 🎟️ **Book Tour Tickets:** Choose a circuit for your upcoming trips:  
   - **Sohra (Cherrapunjee) Circuit**: Rs. 400 per head (Departure: 8:30 AM, Return: 5:30 PM)  
   - **Shillong (Umiam) Circuit**: Rs. 350 per head (Departure: 8:30 AM, Return: 2:30 PM)  
