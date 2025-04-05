@@ -24,13 +24,14 @@ After arriving at **Tribhuvan International Airport**, immigration was smooth, a
 
 **Time: 1 PM** — We used Indrive to book a taxi from **the airport to Thamel**.  
 
-(include map of airport to Thamel)
+<img src="Images/map_airport_to_Thamel.png" width="500" height="300">
+
 
 The ride cost around **400 NPR**. After checking into our pre-booked hotel in Thamel, which cost around **2000 NPR per night**, we freshened up and started exploring.
 
 **Time: 3 PM** — We walked from **Thamel to Kathmandu Durbar Square**.
 
-(include map of Thamel to Kathmandu Durbar Square)
+<img src="Images/map_Thamel_to_Kathmandu_Durbar_Square.png" width="500" height="300">
 
 ### Kathmandu Durbar Square
 
@@ -42,7 +43,9 @@ We witnessed an amazing experience here. We got to see a **Kumari**, a living go
 
 After exploring Kathmandu Durbar Square, we booked a taxi via Indrive to **Swayambhunath (Monkey Temple)**. The fare was **350 NPR**.
 
-(include map of Kathmandu Durbar Square to Swayambhunath)
+
+<img src="Images/map_Kathmandu_Durbar_Square_to_Swayambhunath.png" width="500" height="300">
+
 
 ### Swayambhunath (Monkey Temple)
 
@@ -50,7 +53,7 @@ Swayambhunath, also known as the Monkey Temple, is one of Nepal’s most sacred 
 
 After visiting Swayambhunath, we booked an Indrive to **Pashupatinath Temple**, costing **500 NPR**.
 
-(include map of Swayambhunath to Pashupatinath)
+<img src="Images/map_Swayambhunath_to_Pashupatinath.png" width="500" height="300">
 
 ### Pashupatinath Temple
 
@@ -78,13 +81,16 @@ We got up, showered, got ready, and checked out of the hotel. Our plan for the d
 
 To reach Bhaktapur, we first walked from **Thamel to Ratnapark Bus Stand**.
 
-(include map of Thamel to Ratnapark)
+
+<img src="Images/map_Thamel_to_Ratnapark.png" width="500" height="300">
+
+
 
 An interesting story: We walked around asking for the Bhaktapur bus stand but were off by 1 km. A Nepali sister showed us the way and even ensured we got great seats.
 
 From Ratnapark, we took a bus to Bhaktapur, which cost only **40 NPR per person**.
 
-(include map of Ratnapark to Bhaktapur)
+<img src="Images/map_Ratnapark_to_Bhaktapur.png" width="500" height="300">
 
 ### Bhaktapur Old City
 
@@ -92,7 +98,7 @@ The only way to explore Bhaktapur is by walking.
 
 After getting off the bus, we walked from the main road to **Pottery Square**.
 
-(include map of the main road to Pottery Square)
+<img src="Images/map_main_road_to_Pottery_Square.png" width="500" height="300">
 
 ### Pottery Square
 
@@ -102,7 +108,7 @@ Pottery Square is famous for its traditional pottery-making culture. Skilled art
 
 After Pottery Square, we walked to **Bhaktapur Durbar Square**.
 
-(include map of Pottery Square to Bhaktapur Durbar Square)
+<img src="Images/map_Pottery_Square_to_Bhaktapur_Durbar_Square.png" width="500" height="300">
 
 ### Bhaktapur Durbar Square
 
@@ -112,7 +118,7 @@ Bhaktapur Durbar Square is a historic palace complex with stunning architecture 
 
 After exploring, we walked to **Taumadhi Square**.
 
-(include map of Bhaktapur Durbar Square to Taumadhi Square)
+<img src="Images/map_Bhaktapur_Durbar_Square_to_Taumadhi_Square.png" width="500" height="300">
 
 ### Taumadhi Square
 
@@ -124,11 +130,11 @@ We took some rest in a nearby café. I accidentally left my GoPro there, but the
 
 We then walked to **Nagarkot Bus Park**.
 
-(include map of Taumadhi Square to Nagarkot Bus Park)
+<img src="Images/map_Taumadhi_Square_to_Nagarkot_Bus_Park.png" width="500" height="300">
 
 From there, we took a bus to **Nagarkot**, arriving around **4 PM**.
 
-(include map of Nagarkot Bus Park to Nagarkot)
+<img src="Images/map_Nagarkot_Bus_Park_to_Nagarkot.png" width="500" height="300">
 
 ### Nagarkot
 
@@ -148,7 +154,7 @@ We got up very early, around 4 am. **Nagarkot panoramic sunrise viewpoint** was 
 
 We walked around 3 km, and it was very high. We reached the **Nagarkot panoramic sunrise viewpoint** and waited for the sunrise.
 
-(map of hotel to **Nagarkot panoramic sunrise viewpoint**)
+<img src="Images/map_hotel_to_Nagarkot_panoramic_sunrise_viewpoint.png" width="500" height="300">
 
 ## **Nagarkot panoramic sunrise viewpoint**
 
@@ -162,17 +168,17 @@ After taking some rest, we got up and departed from the hotel around 12 pm. We f
 
 From **Ratnapark**, we took an **Indrive** taxi to **Biluji point**. From there, the buses to **Pokhara** leave.
 
-(map of **Ratnapark** to **Biluji point**)
+<img src="Images/map_Ratnapark_to_Biluji_point.png" width="500" height="300">
 
 **We booked a ticket for the bus to Pokhara, which cost around 1000 NPR, and the bus was okay, but not comfortable at all.**
 
-(include a map from **Biluji** to **Pokhara bus route**)
+<img src="Images/map_Biluji_to_Pokhara_bus_route.png" width="500" height="300">
 
 # Day 4:
 
 We slept on the bus at night. Then, we reached **Pokhara** early in the morning, around 4 am. It was very early, and we were in a new city, which was not safe. So, we booked an **Indrive** to a near lakeside hotel. It cost around **500 NPR**.
 
-(map of tourist bus park to hotel)
+<img src="Images/map_tourist_bus_park_to_hotel.png" width="500" height="300">
 
 We had a booking. But at our booked hotel, we checked, and there was no room open for early check-in. So, we went around searching for any hotel that was open that early. We were in luck. We found one and checked in. It cost around **1200 NPR** per night.
 
@@ -189,6 +195,8 @@ It was breathtaking. The walk was so vibrant and amazing. So many foreigners.
 After walking by the lake, we reached our **bungee jumping booking spot**.
 
 **I booked bungee jumping and made my friend Sowmik book for the Sky Screamer.**
+
+<img src="Images/Highground Adventure.png" width="500" height="300">
 
 (map of **Highground Adventure**)
 
@@ -222,7 +230,7 @@ Then we took some night snacks and returned to the hotel before 11 pm. We went t
 
 We got up early, around 5 am, and used **Indrive** to book a taxi from our hotel to **Sarangkot**. The round trip cost around **2000 NPR**. If you don’t use **Indrive**, this would cost more than 4000, if you go to bargain.
 
-(include a map from hotel to **Sarangkot**)
+<img src="Images/map_hotel_to_Sarangkot.png" width="500" height="300">
 
 ## **Sarangkot**
 
@@ -253,7 +261,7 @@ After paragliding, I reached the lakeside hotel, took a shower, waited for a whi
 
 We walked by the lake for a while, then took an **Indrive** to the **tourist bus park**.
 
-(map of **tourist bus park**)
+<img src="Images/map_lakeside_to_tourist_bus_park.png" width="500" height="300">
 
 Our bus departed around 7 pm. The bus was amazing. I had a great sleep.
 
