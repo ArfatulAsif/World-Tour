@@ -61,8 +61,8 @@ After visiting Swayambhunath, we booked an Indrive to **Pashupatinath Temple**, 
 
 Pashupatinath Temple is Nepal’s most sacred Hindu temple, dedicated to Lord Shiva. Located on the banks of the Bagmati River, it is an important pilgrimage site where Hindu cremation ceremonies take place. The temple is a stunning example of Nepalese pagoda-style architecture and has a deep spiritual significance.
 
-<img src="Images/pashupatinath_temple1.jpg" width="500" height="300">
-<img src="Images/pashupatinath_temple2.jpg" width="500" height="300">
+<img src="Images/pashupatinath_temple1.jpg" width="100" height="100">
+<img src="Images/pashupatinath_temple2.jpg" width="500" height="667">
 
 
 After visiting Pashupatinath, we returned to Thamel for the night.
