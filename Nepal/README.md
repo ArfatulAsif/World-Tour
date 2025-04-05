@@ -69,7 +69,7 @@ After visiting Pashupatinath, we returned to Thamel for the night.
 
 Thamel’s nightlife is vibrant, filled with tourists and a festive atmosphere. We had a great meal and walked around before returning to the hotel before **10 PM**.
 
-<img src="Images/thamel_nightlife1.jpg" width="400" height="567"> ______ <img src="Images/thamel_nightlife2.jpg" width="400" height="567">
+<img src="Images/thamel_nightlife1.jpg" width="400" height="567"> ______ <img src="Images/thamel_nightlife2.jpeg" width="400" height="567">
 
 
 After **10 PM**, all markets shut down, and only bars remain open. It is not recommended to walk around alone at this time.
