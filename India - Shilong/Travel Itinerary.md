@@ -5,7 +5,7 @@
 
 ### Arrival & Border Crossing  
 - 🚗 **Reach Dawki Border by 10 AM:** Complete immigration at Dawki Tamabil Border.  
-- 🚖 **Shared Taxi to Shillong Police Bazar:** After immigration, take a shared taxi (500-700 INR per person) or walk to Dawki Bazar to catch a sumo (300 INR per person). The sumo departs before 1 PM.  
+- 🚖 **Shared Taxi to Shillong Police Bazar:** After immigration, take a shared taxi (500-700 INR per person) or walk to Dawki Bazar to catch a sumo (300 INR per person). The last sumo departs before 1 PM.  
 - 🚙 **Arrival at Shillong Police Bazar:** You'll arrive in the evening.  
 
 ### Evening Activities  
