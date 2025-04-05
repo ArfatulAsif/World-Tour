@@ -37,7 +37,9 @@ The ride cost around **400 NPR**. After checking into our pre-booked hotel in Th
 
 Kathmandu Durbar Square is a UNESCO World Heritage Site and one of the three royal palace squares in the Kathmandu Valley. It showcases traditional Nepalese architecture, historical temples, and palaces that date back centuries. The square is known for its intricate wood carvings, the Hanuman Dhoka Palace, and vibrant street life.
 
-<img src="Images/IMG_0649.HEIC" width="500" height="300">
+<img src="Images/kathmandu_durbar_square1.jpg" width="500" height="300">
+<img src="Images/kathmandu_durbar_square2.jpg" width="500" height="300">
+
 
 We witnessed an amazing experience here. We got to see a **Kumari**, a living goddess in Hindu belief. Our timing was perfect.
 
@@ -59,7 +61,9 @@ After visiting Swayambhunath, we booked an Indrive to **Pashupatinath Temple**, 
 
 Pashupatinath Temple is Nepal’s most sacred Hindu temple, dedicated to Lord Shiva. Located on the banks of the Bagmati River, it is an important pilgrimage site where Hindu cremation ceremonies take place. The temple is a stunning example of Nepalese pagoda-style architecture and has a deep spiritual significance.
 
-(include images of Pashupatinath Temple)
+<img src="Images/pashupatinath_temple1.jpg" width="500" height="300">
+<img src="Images/pashupatinath_temple2.jpg" width="500" height="300">
+
 
 After visiting Pashupatinath, we returned to Thamel for the night.
 
@@ -67,7 +71,9 @@ After visiting Pashupatinath, we returned to Thamel for the night.
 
 Thamel’s nightlife is vibrant, filled with tourists and a festive atmosphere. We had a great meal and walked around before returning to the hotel before **10 PM**.
 
-(include images of Thamel nightlife)
+<img src="Images/thamel_nightlife1.jpg" width="500" height="300">
+<img src="Images/thamel_nightlife2.jpg" width="500" height="300">
+
 
 After **10 PM**, all markets shut down, and only bars remain open. It is not recommended to walk around alone at this time.
 
@@ -104,7 +110,9 @@ After getting off the bus, we walked from the main road to **Pottery Square**.
 
 Pottery Square is famous for its traditional pottery-making culture. Skilled artisans shape clay into beautiful pots, which are then sun-dried and fired in traditional kilns. It is a must-visit to witness Nepal’s ancient craftsmanship.
 
-(include images of Pottery Square)
+<img src="Images/pottery_square1.jpg" width="500" height="300">
+<img src="Images/pottery_square2.jpg" width="500" height="300">
+
 
 After Pottery Square, we walked to **Bhaktapur Durbar Square**.
 
@@ -114,7 +122,9 @@ After Pottery Square, we walked to **Bhaktapur Durbar Square**.
 
 Bhaktapur Durbar Square is a historic palace complex with stunning architecture and cultural significance. It features the **55 Window Palace, Vatsala Temple, and the Golden Gate**. The square reflects Nepal’s rich artistic and architectural heritage.
 
-(include images of Bhaktapur Durbar Square)
+<img src="Images/bhaktapur_durbar_square1.jpg" width="500" height="300">
+<img src="Images/bhaktapur_durbar_square2.jpg" width="500" height="300">
+
 
 After exploring, we walked to **Taumadhi Square**.
 
@@ -124,7 +134,9 @@ After exploring, we walked to **Taumadhi Square**.
 
 Taumadhi Square is home to the famous **Nyatapola Temple**, the tallest pagoda-style temple in Nepal. It is known for its strong foundation and exquisite wood carvings. The square is a lively area with local markets and traditional Newari culture.
 
-(include images of Taumadhi Square)
+<img src="Images/taumadhi_square1.jpg" width="500" height="300">
+<img src="Images/taumadhi_square2.jpg" width="500" height="300">
+
 
 We took some rest in a nearby café. I accidentally left my GoPro there, but the kind owner chased me down to return it. This gesture really showed the kindness of Nepali people.
 
@@ -142,7 +154,8 @@ We checked into a hotel with a **Himalayan view balcony** for **1400 NPR**. The 
 
 Nagarkot is located at an altitude of **2,175 meters**, offering one of the best sunrise views of the Himalayas. It is a peaceful getaway known for its scenic beauty and fresh mountain air.
 
-(include night image of Nagarkot)
+<img src="Images/nagarkot_night.jpg" width="500" height="300">
+
 
 We sat by a fire, had tea, and enjoyed the tranquil atmosphere before going to bed early to catch the **famous Nagarkot sunrise view**.
 
@@ -158,7 +171,9 @@ We walked around 3 km, and it was very high. We reached the **Nagarkot panoramic
 
 ## **Nagarkot panoramic sunrise viewpoint**
 
-(I will include some images of the sunrise, myself, and the mountain)
+<img src="Images/nagarkot_sunrise1.jpg" width="500" height="300">
+<img src="Images/nagarkot_sunrise2.jpg" width="500" height="300">
+
 
 After that, we returned to the hotel and took some rest.
 
@@ -188,7 +203,9 @@ Then, we got up, freshened up, and went for a walk by **Phewa Lake** in **Pokhar
 
 ## **Lake side walk**
 
-(I will include some images of the lakeside)
+<img src="Images/lakeside_walk1.jpg" width="500" height="300">
+<img src="Images/lakeside_walk2.jpg" width="500" height="300">
+
 
 It was breathtaking. The walk was so vibrant and amazing. So many foreigners.
 
@@ -210,7 +227,7 @@ After going there, the weather became cloudy, even though it wasn’t raining. B
 
 Then I did the bungee jump. I have to tell you, it was the greatest, most daring experience of my life. The thrill, the adrenaline rush, simply magnificent. Also, the weather was stormy, and the spot was very high. The moment was perfect.
 
-(include images of bungee jump, images captured by them)
+<img src="Images/bungee.jpg" width="500" height="300">
 
 After bungee jumping, we returned to the lakeside, and it was raining heavily. So, we sat in the hotel. I got sleepy, and it was 7 pm.
 
@@ -222,7 +239,9 @@ We went walking and enjoyed the lakeside. The night was so vibrant and amazing. 
 
 We ate some street food, went to **Pokhara Disneyland**, and tried some sports.
 
-(include images of **Pokhara nightlife**)
+<img src="Images/pokhara_nightlife1.jpg" width="500" height="300">
+<img src="Images/pokhara_nightlife2.jpg" width="500" height="300">
+
 
 After that, we went to book the luxury tourist bus ticket. While we booked the ticket, we chatted with the agent. When he learned that we were from Bangladesh, he was much more cordial. He took us to a nearby restaurant and gave us a 20% discount on all food. I had planned to do paragliding, but I thought I was going to miss it. He learned about our itinerary and gave us a road map of how we could incorporate paragliding into our time. So, I was convinced to do paragliding tomorrow. I booked it, and it cost **8000 NPR**.
 
@@ -237,7 +256,9 @@ We got up early, around 5 am, and used **Indrive** to book a taxi from our hotel
 There are no words to describe this place. Just look at some images.  
 **We were so lucky that Annapurna was visible and clear. As for the past six months, it wasn’t visible or clear, and we only stayed for 2 days in Pokhara and saw the amazing view of the Annapurna mountain range.**
 
-(include a couple of images)
+<img src="Images/sarangkot_sunrise1.jpg" width="500" height="300">
+<img src="Images/sarangkot_sunrise2.jpg" width="500" height="300">
+
 
 After that, we returned to the hotel and left for **Phewa Lake** in **Pokhara**.
 
@@ -245,7 +266,9 @@ After that, we returned to the hotel and left for **Phewa Lake** in **Pokhara**.
 
 It was around 8 am. We booked a boat ride on the lake. It was okay, I guess, but it cost around **2500 NPR**, which was too much, I guess.
 
-(some images of boating)
+<img src="Images/boating_phewa_lake1.jpg" width="500" height="300">
+<img src="Images/boating_phewa_lake2.jpg" width="500" height="300">
+
 
 After boating, I went for paragliding. I went to the agent **PFC (Pokhara Flight Center)**, and from there, they took us to the **Sarangkot paragliding place** via micro.
 
@@ -255,7 +278,9 @@ After reaching the spot, it was amazing. One after another, paragliding flights 
 
 **I should mention that paragliding in Pokhara is one of the best in the world.**
 
-(images of paragliding)
+<img src="Images/paragliding_pokhara1.jpg" width="500" height="300">
+<img src="Images/paragliding_pokhara2.jpg" width="500" height="300">
+
 
 After paragliding, I reached the lakeside hotel, took a shower, waited for a while, and then left.
 
