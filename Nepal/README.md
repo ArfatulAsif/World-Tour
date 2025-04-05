@@ -166,7 +166,7 @@ After taking some rest, we got up and departed from the hotel around 12 pm. We f
 
 **One thing to note**: If you don’t use a local bus, the round trip from **Thamel** to **Nagarkot** would cost around **3000 + 3000 = 6000 NPR**. Using a local bus, this trip costs us only **400 NPR** total.
 
-From **Ratnapark**, we took an **Indrive** taxi to **Biluji point**. From there, the buses to **Pokhara** leave.
+From **Ratnapark**, we took an **Indrive** taxi to **BALAJU Bus stop point**. From there, the buses to **Pokhara** leave.
 
 <img src="Images/map_Ratnapark_to_Biluji_point.png" width="500" height="300">
 
