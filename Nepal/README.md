@@ -37,7 +37,7 @@ The ride cost around **400 NPR**. After checking into our pre-booked hotel in Th
 
 Kathmandu Durbar Square is a UNESCO World Heritage Site and one of the three royal palace squares in the Kathmandu Valley. It showcases traditional Nepalese architecture, historical temples, and palaces that date back centuries. The square is known for its intricate wood carvings, the Hanuman Dhoka Palace, and vibrant street life.
 
-<img src="Images/kathmandu_durbar_square1.HEIC" width="500" height="300">
+<img src="Images/IMG_0649.HEIC" width="500" height="300">
 
 We witnessed an amazing experience here. We got to see a **Kumari**, a living goddess in Hindu belief. Our timing was perfect.
 
