@@ -7,9 +7,9 @@
 
 * 🏙️ **KL Sentral** 🚶 **Walk to nearby café/lounge** – **5:45 AM–7:00 AM** (rest until breakfast)
 
-* 🏨 **Bukit Bintang Hotel** 🚖 **Grab from KL Sentral** – **7:15 AM**, **Cost: RM 10–15**
+* 🏨 **Bukit Bintang Hotel Near China Town** 🚖 **Grab from KL Sentral** – **7:15 AM**, **Cost: RM 10–15**
 
-* 🛄 **Hotel Check-in / Luggage Drop** 🏨 **Hotel 99 Bukit Bintang** – **7:30 AM**
+* 🛄 **Hotel Check-in / Luggage Drop** 🏨 **Signature International Hotel China Town** – **7:30 AM**
 
 * 🛍️ **Bukit Bintang** 🚶 **Explore on foot** – **8:00 AM–12:00 PM**, visit **Pavilion KL**, **Fahrenheit 88**, **Lot 10**
 
