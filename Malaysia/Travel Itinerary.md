@@ -82,7 +82,7 @@
 
 * 🚄 **ETS Train to Butterworth** – **7:50 AM–12:30 PM**, **Cost: RM 79**
 * 🛳️ **Ferry to George Town** – **12:45 PM–1:15 PM**, **Cost: RM 1.20**
-* 🏨 **George Town Hotel Check-In** 🚶 **Walk** – **1:30 PM**, stay near **Chulia Street** (e.g., **Tipsy Tiger Hostel**, RM 70–100)
+* 🏨 **George Town Hotel Check-In** 🚶 **Walk** – **1:30 PM**, stay near **Chulia Street** **Super OYO 998 Queen City Hotel**
 * 🍛 **Lunch at Line Clear Nasi Kandar** 🚶 **Walk** – **2:00 PM–3:00 PM**, **Cost: RM 10–15**
 * 🖼️ **Armenian Street & Street Art** 🚶 **Walk** – **3:00 PM–5:00 PM**
 * 🏠 **Khoo Kongsi Clan House** 🚶 **Walk** – **5:00 PM–6:00 PM**, **Entry: RM 15**
