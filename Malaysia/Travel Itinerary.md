@@ -1,4 +1,4 @@
-# My Malaysia Solo Travel Itinerary  (8 Days 7 Nights)
+# My Malaysia Solo Travel Itinerary  (7 Days 6 Nights)
 
 
 # 🇲🇾 26 May (Sunday) — **Kuala Lumpur (Arrival & Walking Exploration)**
