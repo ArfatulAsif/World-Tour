@@ -123,25 +123,21 @@
 
 ---
 
-# 🚄 1 June (Saturday) — **Return to Kuala Lumpur**
+# ✈️ 1 June (Saturday) — **Return to Dhaka**
 
-* 🏨 **Hotel Checkout** 🚶 **Walk to Swettenham Pier** – **7:00 AM**
+* 🏨 **Hotel Checkout** 🚶 **Walk to Local Café in George Town** – **6:30 AM**
 
-* 🛳️ **Ferry to Butterworth** – **7:30 AM–8:00 AM**, **Cost: RM 1.20**
-* 🚄 **ETS Train to KL Sentral** – **8:30 AM–1:00 PM**, **Cost: RM 79**
-* 🚖 **Grab to Bukit Bintang Hotel** – **1:15 PM**, **Cost: RM 15**
-* 🍛 **Lunch at Pavilion KL Food Court** 🚶 **Walk** – **1:30 PM–2:30 PM**
-* 🛍️ **Last-Minute Shopping** 🚶 **Walk in Pavilion & Suria KLCC** – **2:30 PM–5:00 PM**
-* 🌇 **Petronas Twin Towers Sunset View** 🚶 **Walk to Skybridge Entrance** – **5:30 PM–6:15 PM**
-* 🍽️ **Farewell Dinner at Marini’s on 57** 🚶 **Walk** – **7:00 PM–9:00 PM**, **Cost: RM 200+**
-* 🛄 **Pack & Rest at Hotel** – **9:30 PM onwards**
+* 🍽️ **Breakfast at China House / Toh Soon Café** – **6:45 AM–7:45 AM**, **Cost: RM 25+**
+
+* 🚖 **Grab to Penang International Airport (PEN)** – **8:00 AM–8:45 AM**, **Cost: RM 30**
+
+* 🛫 **Flight to Kuala Lumpur International Airport (KLIA)** – **9:30 AM–10:30 AM**, **Cost: RM 100–200**
+
+* 🧳 **Free Time at KLIA (Relax / Light Lunch / Shopping)** – **10:30 AM–2:30 PM**
+
+* 🛫 **Flight to Dhaka** – **3:50 PM**
 
 ---
 
-# ✈️ 2 June (Sunday) — **Departure to Dhaka**
 
-* 🏨 **Hotel Checkout** 🚖 **Grab to KL Sentral** – **12:00 AM (2 June)**, **Cost: RM 15**
-
-* 🚄 **KLIA Ekspres to KLIA** – **12:30 AM–1:00 AM**, **Cost: RM 55**
-* 🛫 **Flight to Dhaka** – **02:00 AM**
 
