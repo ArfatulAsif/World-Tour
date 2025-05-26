@@ -227,7 +227,7 @@ Total cost was around 310 RM, including the atm charge, which was 22 RM.
 
 
 
-### total day 1 cost was around 300 RM. OR 8958 BDT.
+### total day 1 cost was around 300 RM. OR 9000 BDT.
 
 
 
