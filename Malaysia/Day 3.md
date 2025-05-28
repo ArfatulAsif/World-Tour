@@ -28,6 +28,7 @@ I also met with some fellow bangladeshi student studying CS in malaysia. I talke
 
 [Group photo]
 
+They also told me something more interesting . LIke in singapure bangladeshi are much respeceted, as they follow laws perfectly . Also bangla is the 2nd language. 
 
 
 
