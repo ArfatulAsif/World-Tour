@@ -1,14 +1,3 @@
-🇲🇾 𝐌𝐚𝐥𝐚𝐲𝐬𝐢𝐚 𝐓𝐨𝐮𝐫 – 𝐃𝐚𝐲 2
-𝐤𝐮𝐚𝐥𝐚 𝐥𝐮𝐦𝐩𝐮𝐫: Visited the following places in order by walking, around 𝟏𝟎 𝐊𝐌 circuit.
-1️⃣ 𝐊𝐋 𝐓𝐨𝐰𝐞𝐫 🗼 – Visited the top deck of the KL Tower, around 80 storied high  
-2️⃣ 𝐌𝐚𝐬𝐣𝐢𝐝 𝐈𝐧𝐝𝐢𝐚🕌  
-3️⃣ 𝐈𝐧𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐞 𝐒𝐪𝐮𝐚𝐫𝐞 🏞️  
-4️⃣ 𝐒𝐮𝐥𝐭𝐚𝐧 𝐀𝐛𝐝𝐮𝐥 𝐒𝐚𝐦𝐚𝐝 𝐏𝐚𝐥𝐚𝐜𝐞 🏛️  
-5️⃣ 𝐕𝐢𝐬𝐢𝐭𝐞𝐝 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐨𝐬𝐪𝐮𝐞 𝐨𝐟 𝐌𝐚𝐥𝐚𝐲𝐬𝐢𝐚 🕌🕌
-Finally became very tired and took a cab and returned to the hotel. 🚕
-6️⃣ 𝐖𝐞𝐧𝐭 𝐭𝐨 𝐁𝐮𝐤𝐢𝐭 𝐁𝐢𝐧𝐭𝐚𝐧𝐠  🌃 for exploring the city nightlife  
-7️⃣ 𝐉𝐚𝐥𝐚𝐧 𝐀𝐥𝐨𝐫 𝐑𝐨𝐚𝐝 🍜 – Had dinner, enjoyed the vibrant nightlife
-
 
 
 # Day 2 : More city travel and top of the city view.
