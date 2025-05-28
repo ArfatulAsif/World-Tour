@@ -102,3 +102,7 @@ Got some ngiht snack for my bed time..
 
 
 
+
+## Total cost day 3 was : 102 RM
+
+
