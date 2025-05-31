@@ -148,4 +148,20 @@ brought some night time snacks around 10 RM
 **[10 RM]**
 
 
+Ok another thing happened, on may way home I wanted to buy water, while I wanted to pay for my water, A **Bangladeshi** brother asked my where I was from. As he found me interesting with my camera. Walking like a tourist, I told me I was bangladeshi, .
+
+Then he insisted on not paying for my water, told me the vendor was his friend, Also asked me wether I had diner, we was gonna arrange that too. I wanted to pay and isisted again again, But He said not to take any money.
+
+THen I learned that he is here for more than 17 yearss. 
+
+**The level of kindness these Bangladeshi brotehrs offered, I will rememeber that, they are so down to earth**
+
+
+
+Also another thing happend, I was waking home, along the way I met an British traveler, He found that I was recording arts with my camera, wanted to know whether I have youtube or etc.
+We got to taking, he told me he is been travelling for 5 months, been in thailand for 2 bali for 1 months. 
+I recommaneded him my journey in NEPAL, recommanded some place to him too. "Silus whilte**
+We had a long chat about everything. Then finally I headed home
+
+
 ## 210 RM total
