@@ -156,6 +156,7 @@ THen I learned that he is here for more than 17 yearss.
 
 **The level of kindness these Bangladeshi brotehrs offered, I will rememeber that, they are so down to earth**
 
+**Also, I really wanted to drive motorcycle in malaysia, but to be honest, I was nervous about their law, as it was very strick. But this brother had a scooter, and he just handed it over to me, and I drove, oh by the speed**
 
 
 Also another thing happend, I was waking home, along the way I met an British traveler, He found that I was recording arts with my camera, wanted to know whether I have youtube or etc.
