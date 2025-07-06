@@ -13,7 +13,7 @@ Ok, then what, I remembered there **were buses** when I first came to **KL Sentr
 So I did not do the flight booking, took a Grab to **TBS**.
 
 
-<img src="images/Day 4/kl_sentral_to_tbs_map.jpg" style="width:50%;">
+<img src="images/Day 4/kl_sentral_to_tbs_map.png" style="width:50%;">
 
 
 Ok, there I purchased the first ticket I got hold of, which was at **9:00 am**, and it was already **8:45 am**.
@@ -22,7 +22,7 @@ Ok, there I purchased the first ticket I got hold of, which was at **9:00 am**, 
 
 One thing I should mention is that they ask for **Passport** to do the ticketing.
 
-<img src="images/Day 4/tbs_to_butterworth_map.jpg" style="width:50%;">
+<img src="images/Day 4/tbs_to_butterworth_map.png" style="width:50%;">
 
 From **9:00 am** to **3:45 pm**, the journey was so comfortable, I slept through most of it. The roads were nice.
 
@@ -48,7 +48,6 @@ After shower I immediately headed out without spending any time.
 
 I stayed at **Queen Street**, where my hotel is.
 
- <img src="images/Day 4/map_to_my_hotel.jpg" style="width:50%;">
 
 I first ate lunch at **Nasi Kandar** for **15 RM**.
 
@@ -58,6 +57,16 @@ I first ate lunch at **Nasi Kandar** for **15 RM**.
 Went to **Chulia Street** and **Armenian Street**, to watch the **street arts**. 
 
 <img src="images/Day 4/street_arts.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts1.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts2.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts3.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts4.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts5.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts6.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts7.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts8.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts9.jpg" style="width:50%;">
+<img src="images/Day 4/street_arts10.jpg" style="width:50%;">
 
 These places were very nearby, within **400 m**. So just by walking I went there.
 
@@ -65,8 +74,11 @@ These places were very nearby, within **400 m**. So just by walking I went there
 
 Then when I asked for a picture from two people who looked like Bangladeshis, they told me **“Ok tule dicci”**, which means “Ok, capturing your photo.” I was surprised; I had a great chat with them. Learned that they have been here working for around **2 years**. They offered to take me to **Chew Jetty**, one of the most visited places near the sea.
 
+
 **Normally, whenever I meet people who are kind to me for no reason, I remain suspicious and wait for any bad clues in talking or suspicious acting.**
 **But these two people were so kind at heart and down to earth, there were zero signs.**
+
+<img src="images/Day 4/chew_jetty_photos_bd.jpg" style="width:50%;">
 
 ## Chew Jetty
 
@@ -74,6 +86,7 @@ Then when I asked for a picture from two people who looked like Bangladeshis, th
 I had a great time with them; they were funny, realistic, told me all about Georgetown and their experiences. 
 
 <img src="images/Day 4/chew_jetty_photos.jpg" style="width:50%;">
+<img src="images/Day 4/chew_jetty_photos1.jpg" style="width:50%;">
 
 After that we came to the **Masjid Kapitan Keling** for **Maghrib**, met with more Bangladeshi brothers.
 
@@ -107,7 +120,6 @@ I had dinner here, and let me tell you, this is the best food I had on my entire
 
 It was roasted chicken with other soups.
 
-<img src="images/Day 4/food_photo.jpg" style="width:50%;">
 
 I then headed home.
 
