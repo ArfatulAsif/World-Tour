@@ -7,7 +7,7 @@ I found that I had no charge on my **power bank**, so I walked to the hotel coun
 
 Ok, after that I headed out for **KL Tower** at **3:00 pm**.
 
- <img src="images/Day 2/hotel_to_kl_tower_map.jpg" style="width:50%;">
+ <img src="images/Day 2/hotel_to_kl_tower_map.png" style="width:50%;">
 
 ## KL Tower
 
