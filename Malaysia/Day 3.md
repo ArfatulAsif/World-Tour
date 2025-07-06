@@ -10,12 +10,14 @@ I used **GRAB** and booked a taxi ride from my hotel to **Batu Cave**, which cos
 
 
 
-<img src="images/Day 3/hotel_to_batu_cave_map.jpg" style="width:50%;">
+<img src="images/Day 3/hotel_to_batu_cave_map.png" style="width:50%;">
 
 The cave was amazing, huge, **enormous**. I got so tired getting to the top and entering the cave. I did quite a bit of a photo session inside the cave.
 
 <img src="images/Day 3/batu_cave_photo1.jpg" style="width:50%;">  
 <img src="images/Day 3/batu_cave_photo2.jpg" style="width:50%;">
+<img src="images/Day 3/batu_cave_photo3.jpg" style="width:50%;">
+<img src="images/Day 3/batu_cave_photo4.jpg" style="width:50%;">
 
 I also played around with a **pigeon** in front of the cave. 
 
@@ -32,7 +34,6 @@ Then, as I mentioned, I wanted to ride the **KTM Komuter** train. So I went to t
 
 It was already around **6:30 pm**, and my **8:00 pm** night bus time was getting near. Then I booked another **GRAB taxi**. Surprise—the taxi cost around **29 RM** from **KL Sentral** to **Sungei Wang Plaza**, which is way more than the **18 RM** price from my hotel to Batu Cave. But Batu Cave to my hotel is **11 km**, and KL Sentral to Wang Plaza is **3 km**. I guess it’s the city and this was peak time. 
 
-<img src="images/Day 3/kl_sentral_to_wang_plaza_map.jpg" style="width:50%;">
 
 So going to Batu Cave directly with Grab taxi cost **18 RM**, but coming back via KTM Komuter + taxi to Wang Plaza cost around **35 RM**.
 
@@ -57,15 +58,15 @@ Ok, after that I went for the city night bus. The bus ride was about **2 hours**
 - **Merdeka Square** 🏞️
 - **KLCC – The Twin Towers** 🌉
 
-<img src="images/Day 3/city_night_bus_tour.jpg" style="width:50%;">
+<img src="images/Day 3/city_night_bus_tour1.jpg" style="width:50%;">
+<img src="images/Day 3/city_night_bus_tour2.jpg" style="width:50%;">
+<img src="images/Day 3/city_night_bus_tour3.jpg" style="width:50%;">
+<img src="images/Day 3/city_night_bus_tour4.jpg" style="width:50%;">
 
 After the bus ride, I went to **Jalan Alor Road** for some food.
 
 
- <img src="images/Day 3/jalan_alor_food.jpg" style="width:50%;">
-
 I walked back to the hotel and got some night snacks for my bedtime. I took some night food **10 RM**.
 
-<img src="images/Day 3/night_snack.jpg" style="width:50%;">
 
 ## Total cost Day 3: **102 RM**
