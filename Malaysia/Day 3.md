@@ -47,14 +47,15 @@ Then I had a burger at **Burger King**.
 After the burger, I headed to the **KL City Night Bus Tour** at **Sungei Wang Plaza**. I think the plaza is some sort of famous city hall, like New Market of Dhaka. I actually found so many stalls along with places for karate, go-karting, etc.
 
 Ok, after that I went for the city night bus. The bus ride was about **2 hours**, and it covered:
-– **KL Tower** 🗼
-– **Chinatown** 🏮
-– **Central Market** 🎨
-– **Little India** 🎊
-– **KL Sentral** 🚉
-– **National Palace** 🏰
-– **Merdeka Square** 🏞️
-– **KLCC – The Twin Towers** 🌉
+
+- **KL Tower** 🗼
+- **Chinatown** 🏮
+- **Central Market** 🎨
+- **Little India** 🎊
+- **KL Sentral** 🚉
+- **National Palace** 🏰
+- **Merdeka Square** 🏞️
+- **KLCC – The Twin Towers** 🌉
 
 <img src="images/Day 3/city_night_bus_tour.jpg" style="width:50%;">
 
