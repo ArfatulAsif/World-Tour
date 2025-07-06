@@ -1,168 +1,80 @@
+# Day 5, Penang Hill Tour Day
 
+Got up very late. Showered and got ready.
+Had just a **packet of coffee** that I brought.
 
-# Day 5, Penang HIll tour day.
+It was already around **1:00 pm**, so I took my laundry to a kind lady’s laundry shop nearby.
 
-Got up very late. Showered and got ready. 
-Had just a packate coffe that I brought. 
+**[Laundry cost: 15 RM]**
 
-Its already around 1 pm, took my laoundry to laundry shop kind lady nearby
+Then I did Jumma salat at the **Masjid Kapitan Keling** near me.
+I have to say, the khutba was in Malay, and it was around **30 minutes** long—the salat started at **2:00 pm**.
 
+After salat I had **lunch**.
 
-**[ 15 RM] ** Laundry cost
+**[Lunch: 14 RM]**
 
+Funny story: I was ordering in English. The waiter (Bangladeshi—he recognized me from last night when I was chatting with Sazid vai) told me, “This is **GORU**.” I laughed; he laughed. He wanted to know my plan, and was very kind and hospitable.
 
+After lunch, I took a Grab to **Penang Hill Station**. 
 
-Then did Jumma salat at the **Masjid Kapitan Keelling** near me.
+<img src="images/Day 5/masjid_to_penang_hill_map.jpg" style="width:50%;">
 
+## Penang Hill
 
-I have to say, the khutba was in Malayan, and it was around 30 Minute long, the salat started at 2 PM
+**[Grab cost: 12 RM]** only
 
+**Penang hill Train ticket: 30 RM** 
 
+<img src="images/Day 5/train_photos.jpg" style="width:50%;">
 
-After salat I had laucnh 
+I saw an amazing view of the city from the top of Penang Hill. 
 
 
-**[Lauch 14 RM]**
+<img src="images/Day 5/penang_hill_top_view.jpg" style="width:50%;">
 
-Funny story, I was ordering in english, The waiter (Bangladeshi reconginzed me from last night, when I was with Sazid vai chatting here) told me. this is **GORU**. I laught , he laughted. He wanted to know my plan, and was very kind and hospital
+After that I went to visit **The Habitat**.
 
-AFter lauch , took a Grab to Penang hill station
 
+**[Habitat ticket: 60 RM]** way overpriced, but I took some good photos. 
 
-[Map to penang hill station from masjid]
+<img src="images/Day 5/habitat_photo.jpg" style="width:50%;">
 
+Whenever I search Penang, I get to see **Curtis Crest**, which is a round-shaped platform. So I went there.
 
+ <img src="images/Day 5/curtis_crest.jpg" style="width:50%;">
 
-## Penang hill
+Then I wandered around a bit and took the train down to return.
+One thing I noticed: the down train and up train are programmed so well that they cross each other at a perfect loop point at exactly the same time, then continue on single tracks.
 
-**[Cost was 12 RM]** only
+## Kek Lok Si Temple
 
-**[Train ticket price was 30 RM]**
+It was nearby—around a **1 km** walk—but I was tired and had already seen so many temples, so I just headed back to Penang Hill Station for Grab.
+Finding a car on Grab was hard, as there were so many people at the station. Finally, after around **15 minutes**, I found one.
 
+**[Grab to Masjid: 29 RM]**
 
-[Some photoes of train]
+I took my laundry back, went to the hotel, had a shower, and came back out for **lunch**. Wandered around the city. Then back to the hotel for **noodles**, then again went out for pizza—but didn’t find any open. Instead I found **Hema Hema Artisan Ice Cream** with a huge line of Chinese and white people. So I joined the line to see what all the fuss was about. 
 
+<img src="images/Day 5/hema_hema_queue.jpg" style="width:50%;">
 
+**[Ice cream: 13 RM]**
 
-I saw an amazing view of the city from the top of the penang hill. 
+**The best vanilla ice cream I’ve had in my entire life.**
 
-[Top view of the geoerge town form penang hill]
+After some time I found no pizza shop open—it was around **9:00 pm**. So I had **rice** for **12 RM**, not as good as last night.
 
 
+I saw many famous places with queues in front— even the roast-chicken spot I went to had a huge line because the food is very tasty. Also, one place that’s open during the day (where I ate today) has a nearby spot open only at night.
 
-AFter that I went to visit the habitatl
+Then finally I did one last round of the nightlife and headed back to the hotel, bringing some nighttime snacks for **10 RM**.
 
+Ok, another thing happened on my way home. I wanted to buy water, and as I was about to pay, a **Bangladeshi** brother asked me where I was from—he found me interesting with my camera, walking like a tourist. I told him I was Bangladeshi. Then he insisted on not letting me pay for the water—told me the vendor was his friend. He even asked if I’d had dinner and wanted to arrange that too. I insisted on paying, but he said not to take any money. Then I learned he has been here for more than **17 years**.
 
-**[Habitat ticket 60RM]** wayy overpriced
+**The level of kindness these Bangladeshi brothers offered—I will remember that; they are so down to earth.**
 
+Also, I really wanted to drive a motorcycle in Malaysia, but to be honest, I was nervous about their strict laws. But this brother had a scooter, and he just handed it over to me—I drove, oh, by the speed!
 
+Another thing: I was walking home, and along the way I met a British traveler. He saw me filming arts with my camera and asked if I had a YouTube channel. We got to talking—he told me he’s been traveling for **5 months** (2 in Thailand, 1 in Bali). I recommended my journey in Nepal and suggested places. We had a long chat. Then I finally headed home.
 
-But I took some good photoes
-
-[Photo from habitate]
-
-
-Whenever I search penang, I get to see **CURTIS CREST** whihc is a round shape thing. 
-
-
-So I went there
-
-
-[Photoe of curtis crest]
-
-
-then I wondered around a bit.
-
-
-And took the down train to return. 
-
-
-ONe thing I notice, down train and up train are programmed so well that, at the excat time the cross each other at a perfect location, where there are a loop, after that aagain single lane.
-
-
-
-
-
-## KEK LOK SI temple
-
-
-was nearby and around 1km walk, but I was tired and already watched so many temple. So just headed a bit and return to penang hill station for GRAB.
-
-
-
-I have to say, there had a hard time finding a car using GRAB. as there were so many pepole near me at the statin doing so.
-
-
-FInally after around 15 minutes found one.
-
-
-**[Grab to masjid - 29 RM]**
-
-
-Took my laundry back.
-
-
-went to hotel and had a shower and came back for laucnh.
-
-Wondered around the city.
-
-
-Then back hotel, had noddle. 
-
-then again went out for pizza.
-
-Did not found , but found **Hema Hema artisan Ice cream** a huge line of chiinese and white people. 
-
-So I joinded the line to see whats all the fuss
-
-[PHoto of the queue at Hema Hema artisan ICe cream shop]
-
-**[Cost of ice cream - 13 RM]**
-
-**The best venilla ice cream I had in my entire life.**
-
-'
-AFter some time found no pizza shop is open, its around **9 pm**
-
-THen NO pizza, Had rice for 12 RM, not so good like last night
-
-
-**[Rice for 12 RM with roast chicken]**
-
-
-I saw many places had queue in front, as they are famous, even the place where I had rosted chiecken has a huge queue, as the food is very testy.
-
-
-Also one place open at day ( where I at today) there nearby place open only in night.
-
-
-
-
-Then FInally I had a lst round trip at the nightlife. and head to hotel
-
-
-
-
-brought some night time snacks around 10 RM
-
-**[10 RM]**
-
-
-Ok another thing happened, on may way home I wanted to buy water, while I wanted to pay for my water, A **Bangladeshi** brother asked my where I was from. As he found me interesting with my camera. Walking like a tourist, I told me I was bangladeshi, .
-
-Then he insisted on not paying for my water, told me the vendor was his friend, Also asked me wether I had diner, we was gonna arrange that too. I wanted to pay and isisted again again, But He said not to take any money.
-
-THen I learned that he is here for more than 17 yearss. 
-
-**The level of kindness these Bangladeshi brotehrs offered, I will rememeber that, they are so down to earth**
-
-**Also, I really wanted to drive motorcycle in malaysia, but to be honest, I was nervous about their law, as it was very strick. But this brother had a scooter, and he just handed it over to me, and I drove, oh by the speed**
-
-
-Also another thing happend, I was waking home, along the way I met an British traveler, He found that I was recording arts with my camera, wanted to know whether I have youtube or etc.
-We got to taking, he told me he is been travelling for 5 months, been in thailand for 2 bali for 1 months. 
-I recommaneded him my journey in NEPAL, recommanded some place to him too. "Silus whilte**
-We had a long chat about everything. Then finally I headed home
-
-
-## 210 RM total
+## Total cost: **210 RM**
