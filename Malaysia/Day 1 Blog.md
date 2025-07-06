@@ -1,248 +1,161 @@
 # Preparation:
 
-I was planning to go to malaysia for quite a long time. As it was a developed country and also it was within my budget to visit this country. 
-After to much pressure for my university, I got the chance to visit in the Eid-ul-azha vacation. So I purchased the ticket and booked and paid for hotel bookings .
+I was planning to go to **Malaysia** for quite a long time, as it is a developed country and also within my budget. After too much pressure from my university, I got the chance to visit during the **Eid-ul-Azha** vacation. So I purchased the ticket and booked and paid for **hotel bookings**.
 
-The ticket costs around **53K**, normally you can get a round trip ticket for about **44K**, but it was the eid season, So the price was a bit high. Note: [You should purchase round trip ticket non stop ticket, if you do one way you will not get boarding pass from bangladesh airport. Or even you do multi city, [IE, 1 stop ticket, where there is a transit in country like india or other, you will also not get boarding pass, or if you do get boarding pass you will some hassle. 
-Ok, now the hotel booking cost around **15k**, 7 days. 
+The ticket costs around **53 K BDT**; normally you can get a round-trip ticket for about **44 K BDT**, but it was the Eid season, so the price was a bit high. **Note:** You should purchase a non-stop round-trip ticket—if you do one-way, you will not get a boarding pass from Bangladesh airport. Even if you do a multi-city ticket (i.e., one stop in a country like India), you will also not get a boarding pass easily, or if you do get one, you will face some hassle.
+Ok, now the hotel booking cost around **15 K BDT** for **7 days**.
 
+**So up to now, total cost was \[53 + 15] = 68 K BDT.**
 
-**So up to now, total cost was [53+15] = 68K**.
+I also did research for about **2 days** and created an **itinerary** for **7 days** in **Kuala Lumpur** and **Penang (George Town)**.
 
+---
 
-I also did a research of about 2 days, and created an intinerary for 7 days, in Kualalmpur and Penang George town.
+# 25 May, Depart from **Dhaka Airport**
 
+**Time:** **8:00 pm**
 
-# 25 May, Depart from Dhaka airport:
+I came to the airport at **4:30 pm**. I thought I was early, but oh boy—there was a huge line just at the entrance of the airport. There was a huge line for taking the boarding pass too. After that, I went to immigration immediately, as I knew there would be a huge line there too.
 
-TIme: 8 pm. 
+And there was…
 
+<img src="immigration_photo">
 
-I came to airport at 4.30pm. I thought I was early, but oh boooooy.  There was a huge line, just at the entrence of the airport.  There was a huge line in taking the boarding pass too. After that I went to immigration immidiatly, as I know that there will be a huge line there too. 
+**I asked around to people and pretty soon realized why a country like Malaysia doesn’t trust our people and sees us with very low-class eyes. Many people go there on tourist visas but stay illegally, as their relative or some middleman is waiting.**
 
-And there was.........
+After the huge line at immigration, as everything of mine was OK, I was released before time.
 
+For immigration (both ways) I brought the following documents:
 
-[Include a photo taken at the immigration]
+1. **Passport**
+2. **eVisa printout**
+3. **Air ticket**
+4. **Paid hotel bookings confirmation**
+5. **Student ID card**
+6. **Job agreement**
+7. **Itinerary**
+8. **Malaysia Digital Arrival Card** (submitted **3 days before**)
+9. All files zipped on my Mac (photos, etc.)
+10. Two **passport-size photos** (just in case, not for immigration, for other purposes)
+11. **NID card**
 
-**I asked around to people and pretty soon realied why country like malaysia so doesn't trust our people, and see us in a very low class eyes. Many people are going there with tourist visa, but for the purpose of staying there, as their relative or some middle man is waiting**
+At **9:30 pm** the plane departed. It was about **1 hour** late, which is OK I guess. But the whole plane journey wasn’t comfortable—the plane was overloaded. **But the food was amazing**, I have to say.
 
+---
 
-After the huge line in immigration, As everything of mine was ok,  I was reased begfore time. 
+# 26 May at **Kuala Lumpur** (Day 1)
 
-For immigration on both part I brought the following documents. 
+Arrived at the airport around **3:30 am**. Went to immigration. Was a little bit nervous, not gonna lie, as there were so many Bangladeshis—I even talked to some and found problems with their documentation and their intention.
 
-1 Passport 
-2 e Visa Printout 
-3 Air Ticket 
-4 Paid Hotel bookings. 
-5 Student ID card 
-6  Job agreement 
-7 Itinerary 
-8 Malaysia Digital Arrival Card (3 days before) 
-9. Take all file  to mac, zip  Photoes…
-10.  2 passport size photo, (just in case, not for immigraiotn, for other purposes))
-11. NID card.
+When I went close to immigration, I saw three Bangladeshis who were stopped. I guess there were some problems with documentation or maybe their intention.
 
+I talked with one person I found; the person was completely clueless. **As most of the people of our country.**
 
-at 9.30 pm the plane departed. It made about 1 hour late. which is ok I guess. But the whole plane journy wasn't that comfortable. the plane was overloaded. 
-But the food was amazing. that I have to say..
+Then I turned on my **Devil-may-care, confidence mode**.
 
+While presenting the documents, I first showed the visa and Digital Arrival Card, and spoke a line in English: **“Here is my visa and Digital Arrival Card.”** Then I gave my return ticket and booking, and spoke another line in English: **“Here is my return ticket and paid hotel booking.”** And that’s it. **Just two lines in English with a clear voice, and my immigration was done.**
 
+The officer didn’t even check my other documents, as they are experienced and can mostly tell by looking at the person whether his intention is true or false.
 
-# 26 May at Kualalampur city (day 1)
+But all I can say: **If your intention is true, be confident—that’s it.**
 
+After everything was done, I purchased a SIM card. **Cost: 30 RM**.
 
-Arrivaed at the airport around 3.30 am. Went to immigration. 
-Was a little bit nervous, not gonna lie, as there were soo many bangladeshi, even I talked to them and found problems with documentation and their intention.
+I ate breakfast, **costing 17 RM**—it was a bit high, but I was extremely hungry.
 
-When I went close to immigration, I even saw 3 bangladeshi which were stopped. I guess there were some problems with documentation or may be their intetion. 
+Then I took an underground lift. On Floor 1, there was the **KLIA Ekspres** train that runs from the airport to **KL Sentral**, which is the city center.
 
-I talked with one person, that I found, the person was complete clueless.  **AS most of the people of our country**
+**Train cost: 55 RM** 
 
-Then I turned on my **Devil may care, confidence mode on.**
+After the train, I arrived at **KL Sentral**, and it was huge—I had a very hard time just to navigate.
 
-While presenting the ducments, I first presented the visa, digital arrival card , and spoke a line of english **Here is my Visa, Digital arrival arrival card**. Then I gave my return ticket and booking. and spoke another line of english **Here is my return ticket and paid(with a clear voice) hotel bookings**.  And that's it.  **Just two line of english with clear voice, my immigration was done.**
+Then I wanted to take a taxi, but the Grab app needed prepayment before giving the service. As it was night, I avoided that.
 
-The officer didn't even checked my other docuemnt, as they were expereiced and mostly can tell by just looking at the person whether his intention if true or false. 
+My hotel was around **3.8 km** away, so I decided to walk. 
 
-But all I can say, **If your intention is true, be confident, that's it**
+<img src="kl_sentral_to_hotel_map">
 
-After everything is done, I purchased a Sim card. cost around **30 RM**.
+I had a hard time navigating the location and the roads, as there was a separate **walk** route for every street. Also, it was night, and morning light doesn’t come to Malaysia before **7 am**—it was around **6 am**.
 
-**[Cost 30 RM - SIM]**.  
+Ok, while walking I found the streets of **KL** so well organized. Every single car follows traffic laws strictly. Even when the road is completely clear, the cars still don’t pass, which was really good. All the roads are very well color coded.
 
+I took some pictures too. 
 
-I ate a breakfast, costs around [17 RM]
+<img src="early_skyscraper_photos">
 
-**[ Cost 17 RM]**
+After coming back to the hotel, I directly went to sleep. Early check-in had an extra cost: **50 RM**. 
 
-cost was a bit high, but I was extrememly hungry.
 
-Then I took a lift, which went under ground. in the floor 1, there was the **KLIA EKspres** train, that runs from the airport to **KL Sentral** which is the city center.
 
+I woke up at **3:00 pm**, didn’t waste time, and went for a walk around **Bukit Bintang**.
 
-[Include map from KLIA to KL sentral of KLIA ekspress]
+I followed my itinerary.
 
-**[Train cost was 55 RM]**
 
-after the train I came to **KL sentral** . And It was huge, the station, I had a very hard time just to nevigate. 
 
+## Jalan Alor Street Food
 
-Than I wanted to take a taxi, but the taxi app **Grab**, needed to pay first before giving me a service. As it was night I avoided that. 
+<img src="jalan_alor_map">
 
-My hotel was around **3.8KM** away, I decided to walk. 
+I walked around and had lunch. **Lunch cost: 24 RM**. 
 
+<img src="jalan_alor_food">
 
+---
 
-[Include map from KL sentral to my Hotel chinatown internation]
+## KL Aquaria
 
+<img src="aquaria_map">
 
+Funny thing—the Aquaria is at the **KLCC Convention Centre**, where the **ASEAN Summit** was going on at the time. There was so much security. I was surprised—on a normal city hall that much security, but later realized why.
 
-I had a hard time nevigating the location, and the roads. As there was seperate **Walk** route for every road. And also it was night, and morning lisght does come to malaysia before 7 am. and it was around 6 am. 
+<img src="convention_hall_photo">
 
-Ok, while walking I found the street of KL was so well organized. Everysingle car follows the traffic law strickly. Even the raod is complete clear, the cars still doesn't pass. which was really good. All the roads are very well color coded.
+**Aquaria cost: 75 RM**.
 
-I took some pictures too.
+To be honest, a complete waste of money—Cox’s Bazar Radiant Sea World was more worth it. 
 
-[INclude some early photoes of read and skyscrapper]
+<img src="aquaria_photo">
 
+---
 
-After coming back to the hotel I directly went for sleep.
+## KLCC Park
 
-Early check in had an extra cost, [50 RM]
+<img src="aquria_to_klcc_map">
 
+That was so worth it. Oh man, it was amazing. I wandered around the park. 
 
-**[early check in cost 50 RM ]**
+<img src="park_entry">
 
+I went to the center of the park. There it was: **Kuala Lumpur City**
 
-I woke up at 3 pm, didnt waste time, went for walk around **BUKIT BUNTANG**
+**CITY of Skyscrapers**
 
+<img src="skyscraper_1">  
+<img src="skyscraper_2">  
+<img src="skyscraper_3">  
+<img src="skyscraper_4">
 
-I followed my itinerary. 
+**Petronas Twin Towers** and KLCC Park photos. 
 
-## Jalan alor street food
+<img src="petronas_towers">
 
-[Map from my hotel to here]
+Along the way, I purchased some drinks from the supermarket and some night food for the hotel, **costing 40 RM**. 
 
-I walked around, and ate a launch 
+<img src="snacks_photo">
 
-**[Launch cost RM 24]**
+Later, I walked back to the hotel, visiting **Jalan Alor Road** for the night view. 
 
-[Photo of my food. and photo of jalan alor street]
+<img src="jalan_alor_night">
 
+That ended my day. It cost way more than expected because it was the first day and I had to figure out everything.
 
-After that I walked to KL aquria.
+Total cost was around **310 RM**, including the ATM charge of **22 RM**.
 
+### Total Day 1 cost was around **300 RM** or **9,000 BDT**.
 
-## KL aquraia
+Just one more thing before I go for today: as I am writing from my hotel after Day 1, I want to remind people coming to **Kuala Lumpur** that the hotel socket is not like ours.
 
-[Map from jalan alor street to kl aquria]
+<img src="socket_photo">
 
-Funny thing, the aquria is at the KLCC convention hall, where at the time the **asean summit** was going on. 
-
-There were soooo much security . I was suprise, on a normall city hall that much security, later realized. and understood. 
-
-
-[Photo in front of kl convention hall]
-
-
-
-**[Aquria cost was 75 RM]**
-
-
-To be honest, complete waste of money, cox bazar radiaant sea world was more worth it.
-
-
-[Photo in aquria]
-
-
-
-After that I went for KLCC park
-
-## KLCC park. 
-
-[map from aquria to KLCC park]
-
-
-thaaat was so much worth it. 
-
-
-oh man, it was amazing. 
-
-I wondered around the park 
-
-[INclude some entering photoes. ]
-
-
-I went to the center of the park. there, it was, 
-
-
-**Kualalampur city**
-
-**CITY of skyscrapper**
-
-
-
-**[INclude photoes of skycrapper]**
-**[INclude photoes of skycrapper]**
-**[INclude photoes of skycrapper]**
-**[INclude photoes of skycrapper]**
-
-
-**[INclude photoes of skycrapper with me]**
-
-
-**petronas twin tower, and KLCC park photoes**.
-
-
-
-
-
-[Along the way, I purchased some drinks from the super market and some night food for the hotel. costing around 40 RM]
-
-
-
-**[Cost 40 RM]**
-
-
-
-Later I walked back to hotel. Along the way I visited the Jalan alor road for night view
-
-
-## Jalan alor road, night view
-
-[include some photoes]
-
-
-
-
-
-
-That way my day was ended . It costed way more than expected. Because it was first day I had to figure out everything. 
-
-
-Total cost was around 310 RM, including the atm charge, which was 22 RM.
-
-
-
-
-### total day 1 cost was around 300 RM. OR 9000 BDT.
-
-
-
-
-JUst one more thing before I go for today, 
-
-As I am writing from my hotel after day 1. I wanted to remind people coming to kualalampur. The hotel socket is not like our country.
-
-[Include a photo of socket]
-
-Thank good I borrowed power bank from my friend. 
-
-
-
-
-
-
-
+Thank goodness I borrowed a power bank from my friend.
