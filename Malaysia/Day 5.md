@@ -18,8 +18,6 @@ Funny story: I was ordering in English. The waiter (Bangladeshi—he recognized 
 
 After lunch, I took a Grab to **Penang Hill Station**. 
 
-<img src="images/Day 5/masjid_to_penang_hill_map.jpg" style="width:50%;">
-
 ## Penang Hill
 
 **[Grab cost: 12 RM]** only
