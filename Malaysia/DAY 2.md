@@ -20,13 +20,14 @@ I saw the city from the sky deck, which is around **80 stories high**.
 
 <img src="images/Day 2/kl_tower_skydeck_view.jpg" style="width:50%;">
 
+<img src="images/Day 2/kl_tower_skydeck_view1.jpg" style="width:50%;">
+
 To be honest, I wasn’t that surprised by the top view. I actually had a better top view from **Sarangkot, Nepal**. Ok, I guess. Then I went to the ground floor and headed out.
 
 ## Masjid India
 
 Then I headed for **Masjid India**. 
 
-<img src="images/Day 2/kl_tower_to_masjid_india_map.jpg" style="width:50%;">
 
 On my way, I had **lunch**, costing around **14.5 RM**. After that, I continued walking to **Masjid India**.
 
@@ -38,25 +39,26 @@ It was not that surprising; it was ok, I guess. It was the time of **Asr salat**
 
 I then headed for the **Independence Square** and **Sultan Abdul Samad**. 
 
-<img src="images/Day 2/masjid_india_to_independence_square_map.jpg" style="width:50%;">
 
 I took some **photos** and continued **walking**. 
 
 <img src="images/Day 2/independence_square_sultan_abdul_samad.jpg" style="width:50%;">
 
+<img src="images/Day 2/independence_square_sultan_abdul_samad1.jpg" style="width:50%;">
+
 ## National Mosque of Malaysia
 
 After that, I went to the **National Mosque of Malaysia**. 
 
-<img src="images/Day 2/independence_square_to_national_mosque_map.jpg" style="width:50%;">
 
 I went for **Asr salat**. I saw there are separate sections for men and women; women had a place for salat at the back. 
 
 <img src="images/Day 2/national_mosque.jpg" style="width:50%;">
 
+<img src="images/Day 2/national_mosque1.jpg" style="width:50%;">
+
 After all the walking, I became so tired and finally, for the first time, I used the **GRAB app** for a taxi to the hotel. One thing to remember is that you can board a taxi from many places; for each type of taxi there are designated boarding points. I had a hard time navigating on the map—I had to go back and forth between Google Maps and the GRAB app to find the taxi boarding point. 
 
-<img src="images/Day 2/national_mosque_to_hotel_taxi_map.jpg" style="width:50%;">
 
 The taxi ride **cost around 8 RM**, but I tipped a total of **10 RM**.
 Funny thing about the driver: he is a **police officer** by day and a taxi driver by night. I had a great chat with him; he was a local of **Indian descent**, grew up in **Malaysia**. I actually tipped him **2 RM** more. He asked me again, “Are you sure?” I realized they are very professional and don’t expect tips.
