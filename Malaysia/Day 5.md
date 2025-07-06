@@ -30,6 +30,8 @@ I saw an amazing view of the city from the top of Penang Hill.
 
 
 <img src="images/Day 5/penang_hill_top_view.jpg" style="width:50%;">
+<img src="images/Day 5/penang_hill_top_view1.jpg" style="width:50%;">
+<img src="images/Day 5/penang_hill_top_view2.jpg" style="width:50%;">
 
 After that I went to visit **The Habitat**.
 
@@ -37,10 +39,12 @@ After that I went to visit **The Habitat**.
 **[Habitat ticket: 60 RM]** way overpriced, but I took some good photos. 
 
 <img src="images/Day 5/habitat_photo.jpg" style="width:50%;">
+<img src="images/Day 5/habitat_photo1.jpg" style="width:50%;">
 
 Whenever I search Penang, I get to see **Curtis Crest**, which is a round-shaped platform. So I went there.
 
  <img src="images/Day 5/curtis_crest.jpg" style="width:50%;">
+ <img src="images/Day 5/curtis_crest1.jpg" style="width:50%;">
 
 Then I wandered around a bit and took the train down to return.
 One thing I noticed: the down train and up train are programmed so well that they cross each other at a perfect loop point at exactly the same time, then continue on single tracks.
@@ -55,6 +59,7 @@ Finding a car on Grab was hard, as there were so many people at the station. Fin
 I took my laundry back, went to the hotel, had a shower, and came back out for **lunch**. Wandered around the city. Then back to the hotel for **noodles**, then again went out for pizza—but didn’t find any open. Instead I found **Hema Hema Artisan Ice Cream** with a huge line of Chinese and white people. So I joined the line to see what all the fuss was about. 
 
 <img src="images/Day 5/hema_hema_queue.jpg" style="width:50%;">
+<img src="images/Day 5/hema_hema_queue1.jpg" style="width:50%;">
 
 **[Ice cream: 13 RM]**
 
