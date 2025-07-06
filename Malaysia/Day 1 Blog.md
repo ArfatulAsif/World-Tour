@@ -19,7 +19,7 @@ I came to the airport at **4:30 pm**. I thought I was early, but oh boy—there 
 
 And there was…
 
-<img src="immigration_photo">
+<img src="images/Day 1/immigration_photo.jpg">
 
 **I asked around to people and pretty soon realized why a country like Malaysia doesn’t trust our people and sees us with very low-class eyes. Many people go there on tourist visas but stay illegally, as their relative or some middleman is waiting.**
 
@@ -73,7 +73,7 @@ Then I wanted to take a taxi, but the Grab app needed prepayment before giving t
 
 My hotel was around **3.8 km** away, so I decided to walk. 
 
-<img src="kl_sentral_to_hotel_map">
+<img src="images/Day 1/kl_sentral_to_hotel_map.png">
 
 I had a hard time navigating the location and the roads, as there was a separate **walk** route for every street. Also, it was night, and morning light doesn’t come to Malaysia before **7 am**—it was around **6 am**.
 
@@ -81,7 +81,7 @@ Ok, while walking I found the streets of **KL** so well organized. Every single 
 
 I took some pictures too. 
 
-<img src="early_skyscraper_photos">
+<img src="images/Day 1/early_skyscraper_photos.jpg">
 
 After coming back to the hotel, I directly went to sleep. Early check-in had an extra cost: **50 RM**. 
 
@@ -95,58 +95,52 @@ I followed my itinerary.
 
 ## Jalan Alor Street Food
 
-<img src="jalan_alor_map">
 
 I walked around and had lunch. **Lunch cost: 24 RM**. 
 
-<img src="jalan_alor_food">
+<img src="images/Day 1/jalan_alor_food.jpg">
 
 ---
 
 ## KL Aquaria
 
-<img src="aquaria_map">
+<img src="images/Day 1/aquaria_map.jpg">
 
 Funny thing—the Aquaria is at the **KLCC Convention Centre**, where the **ASEAN Summit** was going on at the time. There was so much security. I was surprised—on a normal city hall that much security, but later realized why.
 
-<img src="convention_hall_photo">
+<img src="images/Day 1/convention_hall_photo.jpg">
 
 **Aquaria cost: 75 RM**.
 
 To be honest, a complete waste of money—Cox’s Bazar Radiant Sea World was more worth it. 
 
-<img src="aquaria_photo">
-
 ---
 
 ## KLCC Park
 
-<img src="aquria_to_klcc_map">
-
 That was so worth it. Oh man, it was amazing. I wandered around the park. 
 
-<img src="park_entry">
+<img src="images/Day 1/park_entry.jpg">
 
 I went to the center of the park. There it was: **Kuala Lumpur City**
 
 **CITY of Skyscrapers**
 
-<img src="skyscraper_1">  
-<img src="skyscraper_2">  
-<img src="skyscraper_3">  
-<img src="skyscraper_4">
+<img src="images/Day 1/skyscraper_1.jpg">  
+<img src="images/Day 1/skyscraper_2.jpg">  
+<img src="images/Day 1/skyscraper_3.jpg">  
+<img src="images/Day 1/skyscraper_4.jpg">
 
 **Petronas Twin Towers** and KLCC Park photos. 
 
-<img src="petronas_towers">
+<img src="images/Day 1/petronas_towers.jpg">
 
 Along the way, I purchased some drinks from the supermarket and some night food for the hotel, **costing 40 RM**. 
 
-<img src="snacks_photo">
 
 Later, I walked back to the hotel, visiting **Jalan Alor Road** for the night view. 
 
-<img src="jalan_alor_night">
+<img src="images/Day 1/jalan_alor_night.jpg">
 
 That ended my day. It cost way more than expected because it was the first day and I had to figure out everything.
 
@@ -156,6 +150,6 @@ Total cost was around **310 RM**, including the ATM charge of **22 RM**.
 
 Just one more thing before I go for today: as I am writing from my hotel after Day 1, I want to remind people coming to **Kuala Lumpur** that the hotel socket is not like ours.
 
-<img src="socket_photo">
+<img src="images/Day 1/socket_photo.png">
 
 Thank goodness I borrowed a power bank from my friend.
